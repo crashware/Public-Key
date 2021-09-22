@@ -39,4 +39,4 @@ f0dbbfc4402a741ea402b866570c367643810fbb7c371be8bdc22b29e7a9048cc8bbaff61c345767
 ```
 
 # Usage
-Please visit https://github.com/crashware/Metasign to learn more about how to import, generate, and utilize the above public cryptographic key. Everyone is welcome to communicate with me as long as the data is first encrypted with the above public key utilizing the Metasign application.
+Please visit https://github.com/crashware/Metasign to learn more about how to import, generate, and utilize the above public cryptographic key. Everyone is welcome to communicate with me as long as the data is first encrypted with my public key utilizing the aforementioned Metasign application.
